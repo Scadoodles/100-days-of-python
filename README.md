@@ -2,7 +2,7 @@
 This is my attempt at learning python in 100 days.
 
 ### Project Listing
-[Day 1: Printing Start](/day-001) `2024-01-01`
+[Day 1: Band Name Generator](/day-001) `2024-01-01`
 
 
 ### Source
