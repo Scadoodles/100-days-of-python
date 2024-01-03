@@ -4,6 +4,7 @@ This is my attempt at learning python in 100 days.
 ### Project Listing
 [Day 1: Band Name Generator](/day-001) `2024-01-01`
 [Day 2: Tip Calculator](/day-002) `2024-01-02`
+[Day 2: Treasure Island](/day-003) `2024-01-03`
 
 
 ### Source
