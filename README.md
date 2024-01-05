@@ -2,10 +2,10 @@
 This is my attempt at learning python in 100 days.
 
 ### Project Listing
-`2024-01-01` [Day 1: Band Name Generator](/day-001)
-`2024-01-02` [Day 2: Tip Calculator](/day-002)
-`2024-01-03` [Day 3: Treasure Island](/day-003)
-`2024-01-04` [Day 4: Rock, Paper, Scissors](/day-004)
+`2024-01-01` [Day 1: Band Name Generator](/day-001)<br>
+`2024-01-02` [Day 2: Tip Calculator](/day-002)<br>
+`2024-01-03` [Day 3: Treasure Island](/day-003)<br>
+`2024-01-04` [Day 4: Rock, Paper, Scissors](/day-004)<br>
 
 ### Source
 This repository is following the course: _"100 Days of Code: The Complete Python Pro Bootcamp for 2023"_ on Udemy by Dr. Angela Yu.
