@@ -41,7 +41,7 @@ games = [
   [False, True, None]
 ]
 
-# The same matrix with test based results
+# The same matrix with text based messages
 results = [
   [
     "Rock matches rock. Tie.",
