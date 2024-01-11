@@ -8,6 +8,7 @@ This is my attempt at learning python in 100 days.
 `2024-01-04` [Day 4: Rock, Paper, Scissors](/day-004)<br>
 `2024-01-05` [Day 5: Password Generator](/day-005)<br>
 `2024-01-06` [Day 6: Reeborg's World Maze Challenge](/day-006)<br>
+`2024-01-11` [Day 7: Hangman](/day-007)<br>
 
 ### Source
 This repository is following the course: _"100 Days of Code: The Complete Python Pro Bootcamp for 2023"_ on Udemy by Dr. Angela Yu.
